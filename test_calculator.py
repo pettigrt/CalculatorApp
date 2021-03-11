@@ -1,4 +1,4 @@
-lsimport calculator
+import calculator
 
 
 class TestCalculator:
