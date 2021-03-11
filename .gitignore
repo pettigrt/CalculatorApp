@@ -1,2 +1,3 @@
 calculator
 __pycache__
+.coverage
